@@ -1,5 +1,5 @@
 {
-  "name": "Hello World Starter",
-  "description": "A clean, modern, and expandable React TypeScript starter template styled with Tailwind CSS.",
+  "name": "Blank Hello World",
+  "description": "A minimal, blank React TypeScript starter template.",
   "requestFramePermissions": []
 }
